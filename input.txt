@@ -1,0 +1,14 @@
+Hello,world!
+This is my first file creation in python programming
+This file was created today being 20th November 2024
+During my plp training.
+ This is an addittional text to my input, 
+ This should be on another line of the new document.
+ This is an addittional text to my input, 
+ This should be on another line of the new document.
+ This is an addittional text to my input, 
+ This should be on another line of the new document.
+ This is an addittional text to my input, 
+ This should be on another line of the new document.
+ This is an addittional text to my input, 
+ This should be on another line of the new document.
